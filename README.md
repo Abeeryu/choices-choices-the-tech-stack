@@ -4,6 +4,8 @@ Ik heb een onderzoek uitgevoerd naar 11ty, Next.js en Vue. Voor elk framework he
 
 # Repos die ik heb gemaakt:
 
+Hier vind je alle informatie over de installatie en gebrui en enzovoort in Readme geschreven met een live link naar de website.
+
 https://github.com/Abeeryu/11ty
 
 https://github.com/Abeeryu/Next.js
