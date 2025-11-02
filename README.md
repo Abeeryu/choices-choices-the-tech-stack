@@ -15,6 +15,7 @@ Hier maak ik een **vergelijking** tussen 11ty, Next.js en Vue op het gebied van 
 ## User eXperience
 
 ### 11ty:
+-- --
 
 ### Doelgroep & devices:
 
@@ -31,6 +32,7 @@ Hier maak ik een **vergelijking** tussen 11ty, Next.js en Vue op het gebied van 
 - Netwerkverkeer is laag; weinig HTTP-requests.
 
 ### Next.js: 
+-- --
 
 ### Doelgroep & devices:
 
@@ -47,6 +49,7 @@ Hier maak ik een **vergelijking** tussen 11ty, Next.js en Vue op het gebied van 
 - Offline ervaring via Service Workers en caching mogelijk.
 
 ### Vue:
+-- --
 
 ### Doelgroep & devices:
 
@@ -67,6 +70,7 @@ Hier maak ik een **vergelijking** tussen 11ty, Next.js en Vue op het gebied van 
 ## Developer eXperience
 
 ### 11ty:
+-- --
 
 ### Functies:
 
@@ -87,6 +91,7 @@ Hier maak ik een **vergelijking** tussen 11ty, Next.js en Vue op het gebied van 
 - API beperkt tot data-templates; eenvoudig te begrijpen.
 
 ### Next.js: 
+-- --
 
 ### Functies:
 
@@ -107,6 +112,7 @@ Hier maak ik een **vergelijking** tussen 11ty, Next.js en Vue op het gebied van 
 - Templates en reactiviteit eenvoudig te begrijpen.
 
 ### Vue
+-- --
 
 ### Functies:
 
@@ -131,6 +137,7 @@ Vue: Component-based, HMR via Vite, goede docs
 ## Content Management eXperience
 
 ### 11ty:
+-- --
 
 ### Eisen aan contentbeheerders:
 
@@ -143,6 +150,7 @@ Vue: Component-based, HMR via Vite, goede docs
 - Voor dynamische content of complexe pagina’s moet beheerder wat technische kennis hebben
 
 ### Next.js:
+-- --
 
 ### Eisen aan contentbeheerders:
 
@@ -155,6 +163,7 @@ Vue: Component-based, HMR via Vite, goede docs
 - Voor het toevoegen van complexe componenten kan frontend kennis handig zijn.
   
 ### Vue:
+-- --
 
 ### Eisen aan contentbeheerders:
 
