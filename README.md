@@ -1,36 +1,48 @@
 # Choices, Choices - The Tech-stack
 
-Onderzoek een andere tech-stack voor het ontwerpen en bouwen van een website voor een opdrachtgever.
+Ik heb een onderzoek uitgevoerd naar 11ty, Next.js en Vue. Voor elk framework heb ik een aparte repository aangemaakt, waarin ik in de README de installatie, belangrijke stappen en bevindingen heb gedocumenteerd. Daarnaast heb ik een live voorbeeldwebsite toegevoegd om de werking van elk framework te demonstreren.
 
-De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-the-tech-stack/blob/main/docs/INSTRUCTIONS.md)
+# Repos die ik heb gemaakt:
 
+https://github.com/Abeeryu/11ty
 
+https://github.com/Abeeryu/Next.js
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+https://github.com/Abeeryu/Vue.js
 
-## Inhoudsopgave
+### Hier maak ik een vergelijking tussen 11ty, Next.js en Vue op het gebied van User Experience, Developer Experience en Content Management Experience.
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+## User eXperience
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+11ty: Snelle, statische pagina’s; werkt op alle devices
+Next.js: Snelle SSR/SSG, goede SEO, moderne webapps
+Vue: Interactieve SPA, moderne browsers nodig, medium performance
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+## Developer eXperience
 
-## Installatie
+11ty: Eenvoudig, snel builds, minimale tooling
+Next.js: Complexer maar krachtig: routing, API-routes, debugging
+Vue: Component-based, HMR via Vite, goede docs
 
-## Gebruik
+## Content Management eXperience
+
+11ty: Laagdrempelig, markdown of simpel CMS
+Next.js: Headless CMS makkelijk, complexere componenten vereisen frontend kennis
+Vue: Beheer van dynamische content vraagt wat technische kennis
 
 ## Bronnen
+
+https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9
+
+https://www.softermii.com/blog/10-tips-in-choosing-the-best-tech-stack-for-your-web-application
+
+https://symfony.com/ten-criteria
+
+https://www.velvetech.com/blog/choosing-project-tech-stack-basic-principles/
+
+https://tray.io/blog/align-revenue-ops-tech-stack
+
+https://www.zachleat.com/web/site-generator-review/
 
 ## Licentie
 
