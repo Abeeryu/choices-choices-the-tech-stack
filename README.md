@@ -11,9 +11,11 @@ https://github.com/Abeeryu/Next.js
 https://github.com/Abeeryu/Vue.js
 
 Hier maak ik een **vergelijking** tussen 11ty, Next.js en Vue op het gebied van User Experience, Developer Experience en Content Management Experience.
-En ik heb voor dat een powerpoint gemaakt. 
+En ik heb voor dat een powerpoint presentatie gemaakt. 
 
 [Presentatie tech-stack.pptx](https://github.com/user-attachments/files/23293052/Presentatie.tech-stack.pptx)
+
+Dit is een link ernaar: https://1drv.ms/p/c/e4380ffd352f0bcb/ESH1HuYAM2lKm9hiHIC85ZkBdCdbP_o2DUhX0ohbz46PSw?e=lQ3xET
 
 ## User eXperience
 
